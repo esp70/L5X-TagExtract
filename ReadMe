@@ -1,0 +1,5 @@
+The Java based .L5X Tag Extract program is a simple library to extract the tags from the said file. Rockwell uses an .XML based structure in their export file.
+
+The original intent of this program is to extract the fully qualified tag names from the file for use in other processes.The Program can extract all the controller based tags (complex structures included) from the .L5X file.
+
+There is more information that can be extracted from this file, but this functionality was not the intent of this project. The program can easily be extended to provide more information.
